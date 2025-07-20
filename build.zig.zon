@@ -1,0 +1,17 @@
+.{
+    .name = .zchip2d,
+    .version = "0.1.0-dev",
+    .fingerprint = 0x4726308a11083996,
+
+    .minimum_zig_version = "0.14.0",
+
+    .dependencies = .{},
+
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "lib",
+        "src",
+        "LICENSE",
+    },
+}
