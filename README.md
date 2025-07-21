@@ -1,4 +1,4 @@
-# Zig Physics: [zchip2d](https://github.com/deinuser/zchip2d)
+# Zig Physics: [zchip2d](https://github.com/eisvogelstudio/zchip2d)
 
 Zig build package and bindings for [Chipmunk2D](https://github.com/slembcke/Chipmunk2D) 7.x physics engine.
 
