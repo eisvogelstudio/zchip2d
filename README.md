@@ -1,6 +1,6 @@
 # Zig Physics: [zchip2d](https://github.com/eisvogelstudio/zchip2d)
 
-Zig build package and bindings for the [Chipmunk2D](https://github.com/slembcke/Chipmunk2D) 2D physics engine.
+Zig bindings and build package for [Chipmunk2D](https://github.com/slembcke/Chipmunk2D) — a lightweight 2D physics engine.
 
 ## Getting started
 
